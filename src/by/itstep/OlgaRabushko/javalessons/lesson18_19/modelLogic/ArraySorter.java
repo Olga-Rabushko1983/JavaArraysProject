@@ -2,7 +2,16 @@ package by.itstep.OlgaRabushko.javalessons.lesson18_19.modelLogic;
 
 public class ArraySorter {
     public static void bubbleSortAcs(int[] array) {
+        for (int j = 0; j < array.length - 1; j++) {
 
+            for (int i = 0; i < array.length - 1; i++) {
+                if (array[i] < array[i + 1]) {
+                    int temp = array[i];
+                    array[i] = array[i + 1];
+                    array[i + 1] = temp;
+                }
+            }
+        }
     }
 
     public static void selectedSortAcs(int[] array) {
