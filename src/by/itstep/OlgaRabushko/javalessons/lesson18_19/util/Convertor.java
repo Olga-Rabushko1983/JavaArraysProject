@@ -1,4 +1,4 @@
-package by.itstep.OlgaRabushko.javalessons.lesson18.util;
+package by.itstep.OlgaRabushko.javalessons.lesson18_19.util;
 
 public class Convertor {
     public static String toString(int[] array) {

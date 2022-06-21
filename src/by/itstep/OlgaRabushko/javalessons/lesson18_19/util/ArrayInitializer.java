@@ -1,6 +1,6 @@
-package by.itstep.OlgaRabushko.javalessons.lesson18.util;
+package by.itstep.OlgaRabushko.javalessons.lesson18_19.util;
 
-import by.itstep.OlgaRabushko.javalessons.lesson18.view.Printer;
+import by.itstep.OlgaRabushko.javalessons.lesson18_19.view.Printer;
 
 import java.util.Random;
 import java.util.Scanner;

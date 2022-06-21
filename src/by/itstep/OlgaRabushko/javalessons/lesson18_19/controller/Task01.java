@@ -1,9 +1,9 @@
-package by.itstep.OlgaRabushko.javalessons.lesson18.controller;
+package by.itstep.OlgaRabushko.javalessons.lesson18_19.controller;
 
-import by.itstep.OlgaRabushko.javalessons.lesson18.modelLogic.ArrayWorker;
-import by.itstep.OlgaRabushko.javalessons.lesson18.util.ArrayInitializer;
-import by.itstep.OlgaRabushko.javalessons.lesson18.util.Convertor;
-import by.itstep.OlgaRabushko.javalessons.lesson18.view.Printer;
+import by.itstep.OlgaRabushko.javalessons.lesson18_19.modelLogic.ArrayWorker;
+import by.itstep.OlgaRabushko.javalessons.lesson18_19.util.ArrayInitializer;
+import by.itstep.OlgaRabushko.javalessons.lesson18_19.util.Convertor;
+import by.itstep.OlgaRabushko.javalessons.lesson18_19.view.Printer;
 
 import java.util.Scanner;
 

@@ -1,12 +1,10 @@
-package by.itstep.OlgaRabushko.javalessons.lesson18.controller;
-import by.itstep.OlgaRabushko.javalessons.lesson18.modelLogic.ArraySearcher;
-import by.itstep.OlgaRabushko.javalessons.lesson18.modelLogic.ArrayWorker;
-import by.itstep.OlgaRabushko.javalessons.lesson18.util.ArrayInitializer;
-import by.itstep.OlgaRabushko.javalessons.lesson18.util.Convertor;
-import by.itstep.OlgaRabushko.javalessons.lesson18.view.Printer;
+package by.itstep.OlgaRabushko.javalessons.lesson18_19.controller;
+import by.itstep.OlgaRabushko.javalessons.lesson18_19.modelLogic.ArraySearcher;
+import by.itstep.OlgaRabushko.javalessons.lesson18_19.util.ArrayInitializer;
+import by.itstep.OlgaRabushko.javalessons.lesson18_19.util.Convertor;
+import by.itstep.OlgaRabushko.javalessons.lesson18_19.view.Printer;
 
 import java.util.Scanner;
-import java.util.Random;
 
 public class Task2 {
     public static void main(String[] args) {

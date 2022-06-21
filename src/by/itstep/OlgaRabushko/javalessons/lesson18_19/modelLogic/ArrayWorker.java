@@ -1,4 +1,4 @@
-package by.itstep.OlgaRabushko.javalessons.lesson18.modelLogic;
+package by.itstep.OlgaRabushko.javalessons.lesson18_19.modelLogic;
 
 public class ArrayWorker {
     public static int sum(int[] array) {

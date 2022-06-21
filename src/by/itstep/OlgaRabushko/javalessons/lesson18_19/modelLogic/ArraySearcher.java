@@ -1,4 +1,4 @@
-package by.itstep.OlgaRabushko.javalessons.lesson18.modelLogic;
+package by.itstep.OlgaRabushko.javalessons.lesson18_19.modelLogic;
 
 public class ArraySearcher {
     public static boolean chek(int[] array, int value) {
