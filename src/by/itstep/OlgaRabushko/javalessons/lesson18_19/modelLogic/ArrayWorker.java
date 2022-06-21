@@ -37,4 +37,15 @@ public class ArrayWorker {
         return sum(array) * 1.0 / array.length;
         // return sum(array) /(double) array.length;
     }
+
+    public static void reverse (int[] array) {
+        int count = array.length / 2;
+
+        for (int i = 0; i < count; i++) {
+            int temp = array[i];
+            array[i] = array[array.length - 1 - i];
+            array[array.length - 1 - i] = temp;
+        }
+
+    }
 }
